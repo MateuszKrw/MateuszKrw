@@ -1,6 +1,6 @@
-Hi, I’m Mateusz Krawiec.
+Hi, I’m Mateusz.
 
-I’m currently learning Vue.
+I’m currently writing mobile app.
 
 You can reach me by 📫 email mateusz.krawiec.e@gmail.com
 
